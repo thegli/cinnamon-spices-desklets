@@ -1,3 +1,16 @@
+### 0.18.1 - February 22, 2026
+
+Features:
+
+- update Spanish translation (courtesy of [haggen88](https://github.com/haggen88))
+
+Bugfixes:
+
+- improve exception logging
+- remove dependency to bash for curl invocation
+- encode quote symbols argument in YF URL
+- improve overall code quality
+
 ### 0.18.0 - February 20, 2026
 
 Features:
